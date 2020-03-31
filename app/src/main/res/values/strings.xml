@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rainbow Café</string>
+    <string name="title">Rainbow Café</string>
+    <string name="rainbowArt">This image contains picture of the coffee art.</string>
+    <string name="address">London, SW1A 1AA</string>
+    <string name="hours">Open every day 7:00AM - 7:00PM</string>
+    <string name="phone">0201 234 5678</string>
+    <string name="website">www.drinkrainbow.com</string>
+</resources>
+
